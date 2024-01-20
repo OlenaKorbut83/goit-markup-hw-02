@@ -137,12 +137,13 @@ a {
   text-transform: capitalize;
 }
 
-.team-list {
+/* .team-list {
+
+} */
+
+.team-list-item {
   background-color: #FFFFFF;
 }
-
-/* .team-list-item {
-} */
 
 .team-subtitle {
   color: #2e2f42;
